@@ -21,6 +21,8 @@ complete
 ### `/lab2b/part06/link`
 https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-6
 complete
+### `/lab2b/part06/status`
+complete
 ### `/lab2b/part07/link`
 https://github.com/koushik-sss/LAB2B_ESE5190/tree/main/Part-7
 ### `/lab2b/part07/status`
